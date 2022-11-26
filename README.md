@@ -14,6 +14,5 @@ max_1.cpp
 
 max_2.cpp
   
-  学习ing
-    
-    from: https://github.com/hanxiaojing/For-a-maximum-of-10-integers-
+  学习中
+  from: https://github.com/hanxiaojing/For-a-maximum-of-10-integers-
